@@ -1,0 +1,14 @@
+.user-panel{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding:20px 50px;
+    text-align: center;
+    background-color: honeydew;
+    color:indigo
+}
+.btn-login{
+    cursor: pointer;
+    padding:10px 25px;
+    margin-bottom:10px;
+    margin-top:20px;
+}
